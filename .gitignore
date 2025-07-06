@@ -1,0 +1,36 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Build output
+dist/
+build/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# IDEs
+.vscode/
+.idea/
+*.sw?
+
+# TypeScript
+*.tsbuildinfo
+
+# Next.js or similar
+.next/
+out/
